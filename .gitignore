@@ -1,0 +1,6 @@
+# ficheros generados por python
+_pycache_/
+*.pyc
+
+# Notas personales que no queremos versionar
+notas.txt
