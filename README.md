@@ -1,3 +1,7 @@
-# UT2 - Estructura de  control en Python
-
-Repositorio de ejercicios de la unidad 2
+## Ejercicios
+| Fichero | Estructura de control |
+|---|---|
+| ej01_par_impar.py | if / else |
+| ej02_calificacion.py | if / elif / else |
+| ej03_tabla_multiplicar.py | for |
+| ej04_adivina.py | while + break |
