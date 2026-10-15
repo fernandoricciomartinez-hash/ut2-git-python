@@ -8,4 +8,4 @@ elif nota >= 7 and nota < 9:
 elif nota > 9:
     print("Calificacion: sobresaliente")
 else:
-    print("Calificacion: Suspenso")
+    print("Calificacion: Insuficiente")
