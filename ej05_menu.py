@@ -6,7 +6,7 @@ while salir == False:
         case "1":
             print("Hola")
         case "2":
-            print("Hasta pronto...")
+            print("Adios")
         case "3":
             print("Saliendo...")
             salir = True
