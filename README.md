@@ -7,3 +7,4 @@
 | ej04_adivina.py | while + break |
 | ej05_menu.py | match-case |
 | ej06_suma_pares.py | for + continue |
+# Cambio del compañero
