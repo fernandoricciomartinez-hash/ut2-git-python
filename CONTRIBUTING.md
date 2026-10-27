@@ -17,6 +17,6 @@ de Git en local).
 5. Espera la revisión antes de fusionar.
 
 ## Cómo clonar y ejecutar este proyecto
-git clone git@github.com:Jesus10011/ut2-git-python.git
+git clone git@github.com:fernandoricciomartinez-hash/ut2-git-python.git
 cd ut2-git-python
 python3 ej01_par_impar.py
